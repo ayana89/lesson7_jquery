@@ -4,20 +4,20 @@
 Web Application Development
 
 ### Assignment Date:  
-(Month Day, Year)
+(July 31,2018)
 
 ### Student Name:  
-(First and Last Name)
+(Ayana Torres)
 
 ### Project Description:
-(In your own words, briefly describe the assignment.)
+(In this lesson we were asked to create a recipe using JQuery)
 
 ### View Project Online:
 (Replace this statement with your Github Page URL that was created when you 
  published the project.)
 
 ### Lessons Learned in the Assignment:
-1. (Briefly describe a lesson/concept learned in this lesson.)
-2. (Briefly describe a lesson/concept learned in this lesson.)
-3. (Briefly describe a lesson/concept learned in this lesson.)
+1. JQUERY allows develpers to use common Javascript task with few codes.
+2. Every JQuery starts with a $.
+3. Empty () performs what is indicated.
 
